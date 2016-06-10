@@ -72,4 +72,15 @@ a:hover {
 	text-transform: uppercase;
 	float: right;
 }
-
+@media (max-width: 480px){
+.title{
+	font-size: 30px;
+	text-transform: uppercase;
+	color: white;
+}
+.subtitle{
+	font-size: 18px;
+	color: white;
+	opacity: 0.6;
+}
+}
